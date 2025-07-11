@@ -1,10 +1,9 @@
-// Activar tooltips
+
 const tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
 tooltipTriggerList.map(function (tooltipTriggerEl) {
     return new bootstrap.Tooltip(tooltipTriggerEl);
 });
 
-// Animación de las barras de progreso al hacer scroll
 document.addEventListener('DOMContentLoaded', function() {
     const languageProgress = document.querySelectorAll('.language-progress');
     
@@ -23,6 +22,6 @@ document.addEventListener('DOMContentLoaded', function() {
     animateOnScroll(); // Ejecutar al cargar la página
 });
 
-// Actualizar el año en el footer
+
 document.querySelector('footer .text-secondary').textContent = 
     `© ${new Date().getFullYear()} Juan David Saavedra Jaimez. Todos los derechos reservados.`;
