@@ -171,7 +171,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 **Wilson Kirby** - Desarrollador Web
 
 - 📧 Email: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- 💼 LinkedIn: [linkedin.com/in/juan-david-saavedra-jaimez](https://www.linkedin.com/in/juan-david-saavedra-jaimez-636239374/?trk=opento_sprofile_goalscard)
 - 🐱 GitHub: [@wilskirby](https://github.com/wilskirby)
 - 🌐 Portfolio: [wilskirby.github.io/Portafolio](https://wilskirby.github.io/Portafolio)
 
